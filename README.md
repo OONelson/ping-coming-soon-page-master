@@ -31,7 +31,7 @@ Users should be able to:
 
 - [Screenshot](#screenshot)
 
--img/FireShot Capture 001 - ping-coming-soon-page-master - ping-coming-soon-page-masterr.netlify.app.png
+-![Alt text](img/FireShot Capture 001 - ping-coming-soon-page-master - ping-coming-soon-page-masterr.netlify.app.png?raw=true "Optional Title")
 
 
 
