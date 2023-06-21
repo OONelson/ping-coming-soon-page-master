@@ -31,7 +31,13 @@ Users should be able to:
 
 - [Screenshot](#screenshot)
 
--![Alt text](img/FireShot Capture 001 - ping-coming-soon-page-master - ping-coming-soon-page-masterr.netlify.app.png?raw=true "Optional Title")
+-
+![FireShot Capture 001 - ping-coming-soon-page-master - ping-coming-soon-page-masterr netlify app](https://github.com/OONelson/ping-coming-soon-page-master/assets/114698224/29ceecbb-b671-47d5-b4d2-f09198383c78)
+
+![FireShot Capture 002 - ping-coming-soon-page-master - ping-coming-soon-page-masterr netlify app](https://github.com/OONelson/ping-coming-soon-page-master/assets/114698224/dafc91c7-313d-4afd-8a88-65a070a1615c)
 
 
+- [Links](#links)
 
+- https://netlify.ping-coming-soon-page-masterr.app
+- 
