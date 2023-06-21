@@ -39,5 +39,25 @@ Users should be able to:
 
 - [Links](#links)
 
-- https://netlify.ping-coming-soon-page-masterr.app
-- 
+- [https://netlify.ping-coming-soon-page-masterr.app](https://ping-coming-soon-page-masterr.netlify.app/)https://ping-coming-soon-page-masterr.netlify.app/
+
+- [Built with](#built-with)
+
+- I used Html, Scss and vanilla javascript with little of Regex(Regular Expression)
+- Also used if statements and DOM manipulation in this challenge 
+
+
+ - [What I learned](#what-i-learned)
+
+ - I learned more of DOM manipulation and regex
+
+
+- [Useful resources](#useful-resources)
+
+- frontendmentor.io
+- MDN
+
+
+- [Acknowledgments](#acknowledgments)
+
+- I appreciate Frontend mentor (https://www.frontendmentor.io) for bringing up with this challenge.
