@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>ping-coming-soon-page-master</title>
+        <link rel="stylesheet" href="css/styles.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;600;700&display=swap"
+            rel="stylesheet">
+    </head>
+
+    <body>
+        <div class="page">
+            <div class="page__logo">
+                <img src="img/logo.svg" alt="page logo img" class="page__logo-img">
+            </div>
+            <div class="page__heading">
+                <h1 class="page__headermain">We are launching <span>soon!</span></h1>
+                <h2 class="page__headersub">Subscribe and get notified</h2>
+            </div>
+            <form class="page__form">
+                <input type="email" id="email" class="page__input " placeholder="Your email address...">
+                <button type="submit" value="Notify Me" class="page__btn" onclick="validateEmail()">Notify Me</button>
+                <div class="error"></div>
+            </form>
+            <figure class="page__main">
+                <img src="img/illustration-dashboard.png" alt="main image" class="page__img">
+            </figure>
+            <footer class="page__footer">
+                <div class="page__icons">
+
+                </div>
+                <div class="page__copyright">
+                    &copy; Copyright Ping. All rights reserved.
+                </div>
+            </footer>
+        </div>
+
+        <script src="script.js"></script>
+    </body>
+
+</html>
